@@ -1,0 +1,3 @@
+C:\Project\MachineCoding\Cache\Cache\obj\Debug\Cache.csproj.AssemblyReference.cache
+C:\Project\MachineCoding\Cache\Cache\obj\Debug\Cache.csproj.SuggestedBindingRedirects.cache
+C:\Project\MachineCoding\Cache\Cache\obj\Debug\Cache.csproj.CoreCompileInputs.cache

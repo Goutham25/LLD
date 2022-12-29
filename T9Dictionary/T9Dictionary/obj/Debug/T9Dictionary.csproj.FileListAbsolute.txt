@@ -1,0 +1,8 @@
+C:\Project\MachineCoding\T9Dictionary\T9Dictionary\bin\Debug\T9Dictionary.exe.config
+C:\Project\MachineCoding\T9Dictionary\T9Dictionary\bin\Debug\T9Dictionary.exe
+C:\Project\MachineCoding\T9Dictionary\T9Dictionary\bin\Debug\T9Dictionary.pdb
+C:\Project\MachineCoding\T9Dictionary\T9Dictionary\obj\Debug\T9Dictionary.csproj.AssemblyReference.cache
+C:\Project\MachineCoding\T9Dictionary\T9Dictionary\obj\Debug\T9Dictionary.csproj.SuggestedBindingRedirects.cache
+C:\Project\MachineCoding\T9Dictionary\T9Dictionary\obj\Debug\T9Dictionary.csproj.CoreCompileInputs.cache
+C:\Project\MachineCoding\T9Dictionary\T9Dictionary\obj\Debug\T9Dictionary.exe
+C:\Project\MachineCoding\T9Dictionary\T9Dictionary\obj\Debug\T9Dictionary.pdb
